@@ -35,3 +35,6 @@ Start Using It By Importing It By - **import InfintyS**
 # How to Use InfintyS Module - 
       
 ## Select According To This Table - 
+|Model|Import|
+|:---:|:----:|
+|Image Classifier|imp|
