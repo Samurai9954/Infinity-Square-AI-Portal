@@ -12,7 +12,7 @@ Infinity Square is made by A Large Community Of People And You Can Be A Part Of 
       
 Infinity Square itself is based on Tensorflow And Many Other AI Libraries.
       
-Currently, Infinty Square Have These Categories - 
+Currently, Infinty Square Have These Categories -                                    
 1) *Image Classifier (Tensorflow)**                
 2) Object Detection (OpenCV) (Haar Cascade Trainer Included!)                
 3) *Chatbot (Tensorflow)***                  
