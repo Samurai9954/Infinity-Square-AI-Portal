@@ -15,11 +15,10 @@ Infinity Square itself is based on Tensorflow And Many Other AI Libraries.
 Currently, Infinty Square Have These Categories -                                    
 1) *Image Classifier (Tensorflow)**                
 2) Object Detection (OpenCV) (Haar Cascade Trainer Included!)                
-3) *Chatbot (Tensorflow)***                  
-4) Chatbot (Chatterbot)              
-5) Face Recognition               
-6) Speech Recognition             
-7) Stock Prediction (Tensorflow)                  
+3) *Chatbot (Tensorflow)***                               
+4) Face Recognition               
+5) Speech Recognition             
+6) Stock Prediction (Tensorflow)                  
 
 # How To Install Infinity Square -      
 
