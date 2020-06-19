@@ -8,7 +8,7 @@ We At Team Infinty, Want To Make Things Easier! You can see it for yourself -
 | :-------------------------------: | :--------------------------------------:|
 |     125 lines of code             |            1 lines of code              |
        
-Infinity Square is made by A Large Community Of People And You Can Be A Part Of The Open-Source Race Too! Mail At - InfinitySquare@gmail.com
+Infinity Square is made by A Large Community Of People And You Can Be A Part Of The Open-Source Race Too! Mail At - CommunityInfinitySquare@gmail.com
       
 Infinity Square itself is based on Tensorflow And Many Other AI Libraries.
       
