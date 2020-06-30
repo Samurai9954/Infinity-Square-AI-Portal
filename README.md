@@ -20,7 +20,8 @@ Currently, Infinty Square Have These Categories -
 5) Speech Recognition             
 6) Stock Prediction (Tensorflow)                  
         
- ***NOTE*** : ***CHATBOT REQUIRES TF 1.12.3. CHATBOT WILL BE UPGRADED AS SOON AS POSSIBLE.***
+ ***NOTE*** : ***CHATBOT REQUIRES TF 1.12.3. CHATBOT WILL BE UPGRADED AS SOON AS POSSIBLE.***          
+ 
 # How To Install Infinity Square -      
 
 ## Step 1 -      
