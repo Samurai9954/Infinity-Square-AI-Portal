@@ -29,7 +29,7 @@ Clone Or Download The Repository
 Make A New Python File In The Same Folder As InfinityS.py    
 
 ## Step 3 - 
-Start Using It By Importing It By - **import InfintyS**
+Start Using It By Importing it by #**import InfinityS**
 
 # How To Use InfinityS - 
 ### After Importing InfinityS, Run The File, And The InfinityS CLI Will Guide You To Your AI :D 😊
