@@ -2,7 +2,7 @@
 This is the official repository Infinity Square AI Portal.
 
 Infinity Square is an AI Library Like Tensorflow except It's Much Easier!     
-We At Team Infinty, Want To Make Things Easier! You can see it for yourself -     
+We At Team Infinity, Want To Make Things Easier! You can see it for yourself -     
       
 |     Normal IC Made In Python      |        IC Made In Infinty Square        |
 | :-------------------------------: | :--------------------------------------:|
