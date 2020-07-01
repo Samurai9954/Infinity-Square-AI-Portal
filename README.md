@@ -34,6 +34,12 @@ Start Using It By Importing it by **import InfinityS**
 
 # How To Use InfinityS - 
 ### After Importing InfinityS, Run The File, And The InfinityS CLI Will Guide You To Your AI :D 😊
+        
+# Training -       
+InfinityS Has 2 Plans - Free Forever, Paid Yearly
+
+If You Want To Train Your Models On The Cloud With High Accuracy and Lower Training Times, You can get the Yearly Subscription of Only ***15$ Per Year***.       
+In The Paid Plan, You Also get the benefit Of Direct Help Through Call On Our Helpline, If You Face Any Issues.
               
                 
                   
