@@ -41,10 +41,11 @@ InfinityS Has 2 Plans - Free Forever, Paid
 If You Want To Train Your Models On The Cloud With High Accuracy and Lower Training Times, You can get these Subscription Plan of Only       
          
 ***5$ Per Weak***       
-***10$ Per Weak***      
-***100$ Per Year***        
-***175$ Forever***                 
-In The Paid Plan, You Also get the benefit Of Direct Help Through Call On Our Helpline, If You Face Any Issues.
+***10$ Per Month***      
+***100$ Per Year***           
+***175$ Forever***            
+            
+In The Paid Plan, You Also get the benefit Of Direct Help Through Call On Our Helpline, If You Face Any Issues.      
               
                 
                   
