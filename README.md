@@ -21,9 +21,7 @@ Currently, Infinty Square Have These Categories -
 5) Speech Recognition             
 6) Stock Prediction (Tensorflow)                  
         
- ***NOTE*** : ***CHATBOT REQUIRES TF 1.12.3. CHATBOT WILL BE UPGRADED AS SOON AS POSSIBLE.***          
- ***NOTE*** : ***INFINITYS MODELS EXCEPT CHATBOT ARE BASED ON TF 2. PLEASE RUN THE CHATBOT IN A VIRUALENV OR A CONDA ENVIORMENT. EVERYTHING ELSE WILL RUN PERFECTLY IN TF 2.***
-# How To Install Infinity Square -      
+ # How To Install Infinity Square -      
 
 ## Step 1 -      
 Clone Or Download The Repository     
@@ -36,3 +34,8 @@ Start Using It By Importing it by **import InfinityS**
 
 # How To Use InfinityS - 
 ### After Importing InfinityS, Run The File, And The InfinityS CLI Will Guide You To Your AI :D 😊
+
+
+***NOTE*** : ***CHATBOT REQUIRES TF 1.12.3. CHATBOT WILL BE UPGRADED AS SOON AS POSSIBLE.***          
+ ***NOTE*** : ***INFINITYS MODELS EXCEPT CHATBOT ARE BASED ON TF 2. PLEASE RUN THE CHATBOT IN A VIRUALENV OR A CONDA ENVIORMENT. EVERYTHING ELSE WILL RUN PERFECTLY IN TF 2.***
+***NOTE*** : ***SOME MODELS MAY REQUIRE A INTERNET CONNECTION***
