@@ -1,7 +1,8 @@
 # Infinity-Square-AI-Portal
 This is the official repository Infinity Square AI Portal.
 
-Infinity Square is an AI Library Like Tensorflow except It's Much Easier!     
+Infinity Square is an AI Library Like Tensorflow except It's Much Easier!  
+This is Made Possible By The Coder Of InfinityS - Yash Arora           
 We At Team Infinity, Want To Make Things Easier! You can see it for yourself -     
       
 |     Normal IC Made In Python      |        IC Made In Infinty Square        |
@@ -21,7 +22,7 @@ Currently, Infinty Square Have These Categories -
 6) Stock Prediction (Tensorflow)                  
         
  ***NOTE*** : ***CHATBOT REQUIRES TF 1.12.3. CHATBOT WILL BE UPGRADED AS SOON AS POSSIBLE.***          
- 
+ ***NOTE*** : ***INFINITYS MODELS EXCEPT CHATBOT ARE BASED ON TF 2. PLEASE RUN THE CHATBOT IN A VIRUALENV OR A CONDA ENVIORMENT. EVERYTHING ELSE WILL RUN PERFECTLY IN TF 2.***
 # How To Install Infinity Square -      
 
 ## Step 1 -      
