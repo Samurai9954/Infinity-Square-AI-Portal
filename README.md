@@ -7,7 +7,7 @@ We At Team Infinity, Want To Make Things Easier! You can see it for yourself -
       
 |     Normal IC Made In Python      |        IC Made In Infinty Square        |
 | :-------------------------------: | :--------------------------------------:|
-|     125 lines of code             |            1 lines of code              |
+|     125 lines of code             |            1 line of code              |
        
 Infinity Square is made by A Large Community Of People And You Can Be A Part Of The Open-Source Race Too! Mail At - CommunityInfinityS@gmail.com
       
